@@ -13,7 +13,7 @@
 ## Impact of the Feature
 [Discuss how this feature affects the existing codebase, including any potential behavioural or performance changes.]
 
-## Testing Conducted
+## How it was tested
 [Detail the tests carried out to ensure the feature works as intended and integrates well with the existing system.]
 
 ## Screenshots/Videos (if applicable)

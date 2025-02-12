@@ -20,7 +20,7 @@
 ## Impact of the Bug Fix
 [Discuss the repercussions of the bug fix on existing functionality. Ensure to accentuate any alterations in behaviour, performance, or side-effects.]
 
-## Testing Performed
+## How it was tested
 [Detail the tests you have executed to ensure that the bug fix functions as anticipated and does not impinge on other parts of the application.]
 
 ## Screenshots/Videos (if applicable)
