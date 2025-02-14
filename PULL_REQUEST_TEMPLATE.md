@@ -16,6 +16,9 @@
 ## Description
 [Provide a detailed explanation or list of the changes you have made. Include the reasons behind these changes and any relevant context. Link any related issues.]
 
+## Impact of the Change
+[Discuss the impact of your changes on the project. This might include effects on performance, new dependencies, or changes in behaviour.]
+
 ## How it was tested
 [Detail the testing you have performed to ensure that these changes function as intended. Include information about any added tests.]
 
@@ -23,4 +26,4 @@
 [Attach screenshots or videos demonstrating the new feature in action.]
 
 ## Additional Information
-[Any additional information that reviewers should be aware of.]
+[Any additional information that reviewers should be aware of. Include any Jira tickets or test plan number.]
